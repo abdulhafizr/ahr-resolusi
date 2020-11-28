@@ -1,3 +1,6 @@
 Resolusi untuk tahun 2021
 - menjadi full stack javascript developer
-- menguasai php
+- belajar php
+- belajar sass
+- belajar tailwincss
+- belajar kotlin
