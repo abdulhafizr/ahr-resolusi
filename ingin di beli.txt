@@ -1,3 +1,2 @@
-Barang ingin di beli 
-- Laptop baru
-- Monitor
+- laptop baru
+- monitor
