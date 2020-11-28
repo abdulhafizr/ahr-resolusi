@@ -1,0 +1,7 @@
+- React Js
+- Vue Js
+- Next Js
+- Nuxt Js
+- Laravel 7, 8
+- Sweet Alert
+- CI 4
